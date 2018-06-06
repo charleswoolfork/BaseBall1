@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\BaseBall1\BaseBall1\bin\Debug\BaseBall1.exe.config
+c:\users\wecancodeit\source\repos\BaseBall1\BaseBall1\bin\Debug\BaseBall1.exe
+c:\users\wecancodeit\source\repos\BaseBall1\BaseBall1\bin\Debug\BaseBall1.pdb
+c:\users\wecancodeit\source\repos\BaseBall1\BaseBall1\obj\Debug\BaseBall1.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\BaseBall1\BaseBall1\obj\Debug\BaseBall1.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\BaseBall1\BaseBall1\obj\Debug\BaseBall1.exe
+c:\users\wecancodeit\source\repos\BaseBall1\BaseBall1\obj\Debug\BaseBall1.pdb
